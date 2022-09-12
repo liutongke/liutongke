@@ -8,7 +8,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.sv
 
 - 😄 blog: https://www.cnblogs.com/caiji/
 
-- ⚡ email: liutongke@live.com
+- ⚡ email: 
 
 
 | ![](https://github-readme-stats.vercel.app/api?username=liutongke) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liutongke&layout=compact) |
